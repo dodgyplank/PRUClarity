@@ -1,0 +1,19 @@
+# Core
+python-dotenv
+typing-extensions
+pydantic
+pypdf
+chromadb
+
+# HTTP clients
+requests
+jwcrypto
+
+# LLM / Agents
+langchain-openai
+langgraph
+langgraph-prebuilt
+langchain-community
+
+# Frontend
+streamlit
