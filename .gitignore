@@ -6,5 +6,6 @@ venv
 .venv
 *.sync 
 
-./vectorstore_cache/ 
+vectorstore_cache 
+./vectorstore_cache/
 ./lc-pruclarity/
