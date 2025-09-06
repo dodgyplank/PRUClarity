@@ -1,4 +1,4 @@
-chat# PRUClarity Multi-Agent Insurance Recommendation
+# PRUClarity Multi-Agent Insurance Recommendation
 
 This project uses multi-agent reasoning and vector search to recommend PRUShield insurance plans tailored to a client's life stages.
 
